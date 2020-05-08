@@ -1,0 +1,20 @@
+PODS:
+  - Stripe (17.0.3)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Stripe
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Stripe
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Stripe: 30ba9a2ac7297e93de561fed695222ef980ee521
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 8b3ca5c5a2286f8fcfe347306eed9f636c69327a
+
+COCOAPODS: 1.8.4
